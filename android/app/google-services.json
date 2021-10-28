@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "675075651203",
+    "project_id": "lavajava-foodordering",
+    "storage_bucket": "lavajava-foodordering.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675075651203:android:4e479cb9aeb84b196ccdb6",
+        "android_client_info": {
+          "package_name": "com.finalproject.lavajava"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "675075651203-a9s4j0qupsio52evaderi66cubhaj9t2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPKWVx9HXQHKP_A1YKBV6BK6TbD0lD1IU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "675075651203-a9s4j0qupsio52evaderi66cubhaj9t2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
